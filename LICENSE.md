@@ -1,4 +1,4 @@
-#  
+#  Enhance Microsoft To Do for macOS with Microsoft To Do for macOS elite Addon - real-time editing and tags, the #1 addon. Includes real-time editing and tags for a smoother
 
 
 
